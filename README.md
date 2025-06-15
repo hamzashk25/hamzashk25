@@ -1,4 +1,4 @@
-## Hi there 👋
+💫 About Me:
 
 - 🔭 I’m currently working on real-world coding projects to apply my skills  
 - 🌱 I’m currently learning Data Analysis, Data Science, and Open-Source Contributions  
